@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mohd Sohil
 
-💻 BCA Student
+💻 BCA 2nd Year Student
 
 ☕ Currently learning Java & DSA
 
